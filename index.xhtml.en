@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta description="Web pages of Naoki Yoshioka, including information about CV, publications, talks, and some details about his research activities."/>
+    <title>Naoki Yoshioka's Page</title>
+
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.blue-purple.min.css"/>
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+  </head>
+
+  <body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--overlay-drawer-button">
+      <header class="mdl-layout__header">
+        <div class="mdl-layout-icon"></div><!-- menu icon -->
+        <div class="mdl-layout__header-row">
+          <span class="mdl-layout-title">Naoki Yoshioka's Page</span>
+          <div class="mdl-layout-spacer"></div>
+          <nav class="mdl-navigation">
+            <a class="mdl-navigation__link" href="#">Curriculum Vitae</a>
+            <a class="mdl-navigation__link" href="#">Research</a>
+            <a class="mdl-navigation__link" href="#">Publications</a>
+            <a class="mdl-navigation__link" href="#">Presentations</a>
+          </nav>
+        </div>
+      </header>
+      <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">Naoki Yoshioka's Page</span>
+        <nav class="mdl-navigation">
+          <a class="mdl-navigation__link" href="#">Curriculum Vitae</a>
+          <a class="mdl-navigation__link" href="#">Research</a>
+          <a class="mdl-navigation__link" href="#">Publications</a>
+          <a class="mdl-navigation__link" href="#">Presentations</a>
+        </nav>
+      </div>
+
+      <main class="mdl-layout__content">
+        <p>test</p>
+      </main>
+    </div>
+  </body>
+</html>
+
