@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!doctype html>
+<html lang="en">
   <head>
-    <meta charset="utf-8"/>
-    <meta description="Web pages of Naoki Yoshioka, including information about CV, publications, talks, and some details about his research activities."/>
+    <meta charset="utf-8">
+    <meta description="Web pages of Naoki Yoshioka, including information about CV, publications, talks, and some details about his research activities.">
     <title>Naoki Yoshioka's Page</title>
 
-    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.blue-purple.min.css"/>
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.blue-purple.min.css">
     <script src="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js"></script>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   </head>
 
   <body>
